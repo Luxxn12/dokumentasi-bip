@@ -563,3 +563,9 @@ Berikut adalah struktur folder untuk project Next.js:
 Branch di buat setiap hari, jadi misalkan sekarang tanggal 1 september 2024, berarti harus buat branch dengan tanggal 1 september 2024, contoh ada di bawah ini:
 
 - `git checkout -b namaUser/tanggal-bulan-tahun`: Membuat branch baru dengan nama tertentu.
+
+# Link Github Dokumentasi ini
+
+```bash
+ https://github.com/Luxxn12/dokumentasi-bip
+```
